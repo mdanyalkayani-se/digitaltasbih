@@ -24,14 +24,6 @@ This project reflects my interest in using tech for **stillness**, not stimulati
 
 ---
 
-## 🛠️ Tech Stack
-
-* **HTML**, **CSS**, **Vanilla JavaScript**
-* Progressive Web App (PWA) support
-* Deployed on **Netlify** with a custom domain
-
----
-
 ## 🧠 What I Focused On
 
 * Creating a quiet, intentional interface
@@ -55,15 +47,21 @@ This project reflects my interest in using tech for **stillness**, not stimulati
 If you’d like to discuss this project or connect professionally:
 
 * 📧 Email: [mdanyalkayani.se@gmail.com](mailto:mdanyalkayani.se@gmail.com)
-* 🐙 GitHub: [github.com/mdanyalkayani-se](https://github.com/mdanyalkayani-se)
 * 💼 LinkedIn: [linkedin.com/in/mdanyalkayani](https://linkedin.com/in/mdanyalkayani)
 
 ---
 
-## 🛡️ License
+## 📄 License & Usage
 
-Licensed under the [MIT License](https://opensource.org/licenses/MIT).
-The project is available for inspiration, but the source code is currently private.
+This project is part of a **personal portfolio showcase**.
+It is **not open source**, and the **source code is private**.
+
+The project is available for **inspiration and demonstration purposes only**.
+Please do **not copy, reuse, or redistribute** any part of the implementation without permission.
+
+> All rights reserved unless explicitly granted.
+
+If you're interested in **collaborating or building something similar**, feel free to reach out.
 
 ---
 
